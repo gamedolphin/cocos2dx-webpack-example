@@ -48,7 +48,6 @@
  */
 
 cc.game.onStart = function(){
-    console.log("HERE");
-    cits.start();
+    app.start();
 };
 cc.game.run();

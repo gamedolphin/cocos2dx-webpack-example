@@ -7,9 +7,9 @@ _.each(resources,function(item) {
     g_resources.push(item);
 });
 
-window.cits = {};
+window.app = {}; // need a better way to expose a global game objecta
 
-window.cits.start = function() {
+window.app.start = function() {
     if(!cc.sys.isNative && document.getElementById("cocosLoading")) //If referenced loading.js, please remove it
         document.body.removeChild(document.getElementById("cocosLoading"));
 
