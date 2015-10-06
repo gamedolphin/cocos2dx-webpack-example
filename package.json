@@ -1,0 +1,19 @@
+{
+  "name": "cits",
+  "version": "1.0.0",
+  "description": "catcher in the sky",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^3.10.1",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
