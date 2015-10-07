@@ -1,7 +1,7 @@
 {
-  "name": "cits",
+  "name": "helloworld",
   "version": "1.0.0",
-  "description": "catcher in the sky",
+  "description": "hello world",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

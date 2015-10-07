@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "name": "cits",
-  "description": "cits",
+  "name": "helloworld",
+  "description": "helloworld",
   "launch_path": "/index.html",
   "icons": {
     "128": "/res/icon.png"
